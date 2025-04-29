@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: fbcont1
-          image: pavan1614/batch15:python_flaskapp
+          image: pavan1614/batch15:15
           ports:
             - containerPort: 8080
       
